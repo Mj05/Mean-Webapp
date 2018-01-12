@@ -1,0 +1,11 @@
+{
+  "name": "booksotre",
+  "version": "1.0.0",
+  "description": "Simple bookstore app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukesh Jangid",
+  "license": "ISC"
+}
